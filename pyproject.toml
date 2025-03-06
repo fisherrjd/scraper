@@ -1,0 +1,7 @@
+[project]
+name = "scraper"
+version = "0.1.0"
+description = "Building a Webscraper"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["beautifulsoup4>=4.13.3", "black>=25.1.0", "requests>=2.32.3"]
