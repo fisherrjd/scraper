@@ -11,10 +11,7 @@ This project aims to develop a Python-based web scraper to extract specific data
 * **Specific Objectives:**
     * Develop a Python script using `requests` and `Beautiful Soup` (or alternative libraries if needed) to fetch and parse the target website's HTML.
     * Implement robust error handling to manage potential issues like network errors, website structure changes, or rate limiting.
-    * Ensure the scraper adheres to the website's `robots.txt` rules and terms of service.
     * Store the extracted data in a structured format (e.g., CSV, JSON, database) for easy analysis and use.
-    * (Optional) Implement rate limiting to avoid overloading the target website's server.
-    * (Optional) Implement the ability to scrape data that is loaded via Javascript, using a headless browser such as selenium, or playwright.
     * (Optional) create a command line interface, or GUI interface for the webscraper.
 
 ## 3. Target Website and Data
